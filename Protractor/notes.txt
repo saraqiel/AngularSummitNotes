@@ -1,0 +1,20 @@
+/*
+    Angular Summit 2018
+    Protractor and End-to-End testing
+*/
+
+//What is Protractor?
+Protractor is a e2e testing framework meant for Angular
+runs in browser
+built on JasmineJs (JavaScript), unit testing framework
+used as:
+    - installed test runner
+    - embedded in tests as a library
+
+Built on selenium(java) WebDriver; API's written as extensions, used for browser automation
+
+//What does it do?
+Runs on many operating systems (Windows, Unix, Linux, iOS, Android)
+Runs on many browsers (Chrome, Mozilla, IE, Safari)
+Runs locally or remotely in the cloud
+
